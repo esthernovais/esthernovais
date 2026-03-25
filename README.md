@@ -4,7 +4,6 @@
 🎓 Formada em **Ciência da Computação**  
 💡 Apaixonada por tecnologia, e quero cada vez mais me aprofundar nesse universo
 
----
 
 ## 🛠️ Tecnologias que uso no dia a dia
 <div style="display: inline_block"><br>
