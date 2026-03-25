@@ -13,7 +13,7 @@
   <img align="center" alt="Esther-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Esther-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Esther-.NET" height="80" width="80" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img align="center" alt="Esther-Dynamics365" height="80" width="80" src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img align="center" alt="Esther-Dynamics365" height="80" width="150" src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div>
 
 ---
