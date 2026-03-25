@@ -2,7 +2,7 @@
 
 🚀 Trabalho atualmente com **Dynamics 365 (Funcional e Dev)**  
 🎓 Formada em **Ciência da Computação**  
-💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções inteligentes  
+💡 Apaixonada por tecnologia, e quero cada vez mais me aprofundar nesse universo
 
 ---
 
