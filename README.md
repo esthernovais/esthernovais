@@ -1,7 +1,7 @@
 # Olá, eu sou a Esther Novais 👩‍💻✨
 
-🚀 Trabalho atualmente com **Dynamics 365 (Funcional e Dev)**
-🎓 Formada em **Ciência da Computação**
+🚀 Trabalho atualmente com **Dynamics 365 (Funcional e Dev)** <br>
+🎓 Formada em **Ciência da Computação** <br>
 💡 Apaixonada por tecnologia, e quero cada vez mais me aprofundar nesse universo
 
 ---
